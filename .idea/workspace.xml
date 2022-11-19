@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="68b6c256-a1c4-48d7-bb5d-f0683751e986" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/ConversationsComponent.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/ConversationsComponent.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/StartChatDialog.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/StartChatDialog.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/StartGroupChatDialog.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/StartGroupChatDialog.js" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectId" id="1RFId938RHrEQfiuFVWH5cDZiua" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="12.10.0" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="settings.nodejs" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="68b6c256-a1c4-48d7-bb5d-f0683751e986" name="Default Changelist" comment="" />
+      <created>1569256502198</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1569256502198</updated>
+      <workItem from="1569256504051" duration="441000" />
+      <workItem from="1569336810815" duration="2817000" />
+      <workItem from="1570027320212" duration="32000" />
+      <workItem from="1570027375637" duration="6068000" />
+      <workItem from="1570845505024" duration="36046000" />
+      <workItem from="1571348530836" duration="30019000" />
+      <workItem from="1571667958823" duration="760000" />
+      <workItem from="1571695735650" duration="1050000" />
+      <workItem from="1572480539237" duration="622000" />
+      <workItem from="1572733055701" duration="26000" />
+      <workItem from="1572733107034" duration="4005000" />
+    </task>
+    <task id="LOCAL-00001" summary="added react">
+      <created>1569337224453</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1569337224453</updated>
+    </task>
+    <task id="LOCAL-00002" summary="login page">
+      <created>1569339842530</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1569339842530</updated>
+    </task>
+    <task id="LOCAL-00003" summary="for pull">
+      <created>1570027498469</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1570027498469</updated>
+    </task>
+    <task id="LOCAL-00004" summary="styling changed and validation added">
+      <created>1570033481172</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1570033481172</updated>
+    </task>
+    <task id="LOCAL-00005" summary="fixed add">
+      <created>1570935739759</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1570935739759</updated>
+    </task>
+    <task id="LOCAL-00006" summary="list of chats">
+      <created>1570989743036</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1570989743036</updated>
+    </task>
+    <task id="LOCAL-00007" summary="selecting conversation and displaying name">
+      <created>1571007345246</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1571007345246</updated>
+    </task>
+    <task id="LOCAL-00008" summary="id retrieved">
+      <created>1571014639091</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1571014639091</updated>
+    </task>
+    <task id="LOCAL-00009" summary="message added to array">
+      <created>1571017501012</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1571017501012</updated>
+    </task>
+    <task id="LOCAL-00010" summary="message added to array">
+      <created>1571018058259</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1571018058259</updated>
+    </task>
+    <task id="LOCAL-00011" summary="writing messages work">
+      <created>1571357524020</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1571357524020</updated>
+    </task>
+    <task id="LOCAL-00012" summary="adding empty conversation">
+      <created>1571419521869</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1571419521869</updated>
+    </task>
+    <task id="LOCAL-00013" summary="app doesn't crash on empty conversation">
+      <created>1571422160302</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1571422160302</updated>
+    </task>
+    <task id="LOCAL-00014" summary="messages aligned on desktop">
+      <created>1571435825022</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1571435825022</updated>
+    </task>
+    <task id="LOCAL-00015" summary="auto scroll for messages">
+      <created>1571436244435</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1571436244435</updated>
+    </task>
+    <task id="LOCAL-00016" summary="text wrap">
+      <created>1571437811513</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1571437811513</updated>
+    </task>
+    <task id="LOCAL-00017" summary="chat is real time now">
+      <created>1571511873259</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1571511873259</updated>
+    </task>
+    <task id="LOCAL-00018" summary="chat is real time now">
+      <created>1571512319448</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1571512319448</updated>
+    </task>
+    <task id="LOCAL-00019" summary="encryption added">
+      <created>1571516254147</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1571516254147</updated>
+    </task>
+    <task id="LOCAL-00020" summary="conversations listener and bug fixes">
+      <created>1571517992404</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1571517992404</updated>
+    </task>
+    <task id="LOCAL-00021" summary="conversations bug fixed">
+      <created>1571696157605</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1571696157606</updated>
+    </task>
+    <task id="LOCAL-00022" summary="form created for adding up to 10 users">
+      <created>1572795328168</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1572795328168</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="added react" />
+    <MESSAGE value="login page" />
+    <MESSAGE value="for pull" />
+    <MESSAGE value="styling changed and validation added" />
+    <MESSAGE value="fixed add" />
+    <MESSAGE value="list of chats" />
+    <MESSAGE value="selecting conversation and displaying name" />
+    <MESSAGE value="id retrieved" />
+    <MESSAGE value="message added to array" />
+    <MESSAGE value="writing messages work" />
+    <MESSAGE value="adding empty conversation" />
+    <MESSAGE value="app doesn't crash on empty conversation" />
+    <MESSAGE value="messages aligned on desktop" />
+    <MESSAGE value="auto scroll for messages" />
+    <MESSAGE value="text wrap" />
+    <MESSAGE value="chat is real time now" />
+    <MESSAGE value="encryption added" />
+    <MESSAGE value="conversations listener and bug fixes" />
+    <MESSAGE value="conversations bug fixed" />
+    <MESSAGE value="form created for adding up to 10 users" />
+    <option name="LAST_COMMIT_MESSAGE" value="form created for adding up to 10 users" />
+  </component>
+</project>
